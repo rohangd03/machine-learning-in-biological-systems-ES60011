@@ -1,0 +1,52 @@
+--------------------------------------------------
+Performance Metrics for SVM: Kernel - linear 
+Accuracy: 0.9649 
+Precision: 0.9672 
+Recall: 0.9365 
+F1 Score: 0.9516 
+--------------------------------------------------
+Performance Metrics for SVM: Kernel - poly 
+Accuracy: 0.9415 
+Precision: 0.9818 
+Recall: 0.8571 
+F1 Score: 0.9153 
+--------------------------------------------------
+Performance Metrics for SVM: Kernel - rbf 
+Accuracy: 0.9357 
+Precision: 1.0000 
+Recall: 0.8254 
+F1 Score: 0.9043 
+--------------------------------------------------
+Performance Metrics for SVM: Kernel - sigmoid 
+Accuracy: 0.4678 
+Precision: 0.1818 
+Recall: 0.1270 
+F1 Score: 0.1495 
+--------------------------------------------------
+Performance Metrics for Random Forest classifier 
+ 
+Accuracy: 0.9708 
+Precision: 0.9833 
+Recall: 0.9365 
+F1 Score: 0.9593 
+--------------------------------------------------
+Performance Metrics for Neural Network Regression 
+ 
+Accuracy: 0.9649 
+Precision: 0.9672 
+Recall: 0.9365 
+F1 Score: 0.9516 
+--------------------------------------------------
+Performance Metrics for Logistic Regression 
+ 
+Accuracy: 0.9825 
+Precision: 0.9688 
+Recall: 0.9841 
+F1 Score: 0.9764 
+--------------------------------------------------
+Performance Metrics for K-Nearest Neighbours 
+ 
+Accuracy: 0.9591 
+Precision: 0.9516 
+Recall: 0.9365 
+F1 Score: 0.9440 
